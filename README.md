@@ -166,8 +166,6 @@ The Superstore's core profitability challenge is not a revenue problem — it is
 
 The data also reveals a significant opportunity: the Home Office segment, despite being the smallest by volume, consistently delivers the highest profit margin per order. South region shows similar characteristics — strong margin efficiency with untapped volume potential.
 
-**The business does not need to sell more — it needs to sell smarter.**
-
 ---
 
 ## 5. Next Steps
