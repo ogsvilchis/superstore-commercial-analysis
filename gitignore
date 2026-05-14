@@ -1,0 +1,50 @@
+# ============================================
+# Superstore Commercial Strategy Analysis
+# .gitignore
+# ============================================
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+*.xlk
+
+# Excel personal macro workbook
+PERSONAL.XLSB
+
+# Power BI temporary files
+~$*.pbix
+*.pbix.bak
+
+# SQL Server files
+*.mdf
+*.ldf
+*.bak
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Log files
+*.log
+
+# ZIP files (keep data clean)
+*.zip
+*.rar
+
+# CSV exports (raw data kept in /data/raw only)
+# Uncomment if you don't want CSVs tracked:
+# *.csv
